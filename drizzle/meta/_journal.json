@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1691033372081,
+      "tag": "0000_icy_synch",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1691033459837,
+      "tag": "0001_foamy_dexter_bennett",
+      "breakpoints": false
+    }
+  ]
+}
